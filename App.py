@@ -12,11 +12,11 @@ st.set_page_config(layout="wide")
 
 st.write("""
 <div style='text-align:center'>
-    <h1 style='color:#009999;'>CopperIQ</h1>
+    <h1 style='color:#009999;'>Industrial Copper Modeling Application</h1>
 </div>
 """, unsafe_allow_html=True)
 
-tab1, tab2 = st.tabs(["Predictive Analytics for the Copper Industry"]) 
+tab1, tab2 = st.tabs(["PREDICT SELLING PRICE","PREDICT STATUS"]) 
 with tab1:    
         
 
